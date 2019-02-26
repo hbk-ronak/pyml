@@ -13,7 +13,7 @@ AutoML library for binary classification problem
     3. Random Forest
     4. RuleFit Classifier
     5. Stacking Function
-7. Train - Test split
+7. ~Train - Test split~ created split.py
 8. Model validation function
     1. AUC-ROC
     2. F1 Score (Auto thresholding using AUC-ROC)
