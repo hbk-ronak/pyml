@@ -4,7 +4,7 @@ AutoML library for binary classification problem
 ### Todos
 1. ~Data ingestion function~ ingestion.py
 2. ~Data seperation function: Seperate out categorical and continous variables~ seperation.py
-3. Data imputation functions
+3. ~Data imputation functions~ imputation.py
 4. Feature generation function
 5. Feature selection functions (Logisitc regression, GBM, Random Forest, and RuleFit Classifier)
 6. Model function: 
